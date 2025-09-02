@@ -21,13 +21,13 @@ const About = () => {
       name: "Mr. Jaganath Ramakrishnan",
       position: "Director",
       bio: "Mr. Jaganath Ramakrishnan, also the director of Thangam Enterprises and Proprietor of Saiksha Agencies has brought value to this company with deep industry knowledge, strategic partnerships, and a commitment to customer satisfaction, has positioned the company as a trusted leader in the consumer durables and corporate gifting space.",
-      image: "public/lovable-uploads/9234820b-7143-420b-8fee-f1729c5d6646.png"
+      image: "public/lovable-uploads/jegan.jpg"
     },
     {
       name: "Mrs. Thangamalar Jaganath",
       position: "Director",
       bio: "Mrs. Thangamalar Jaganath, also Partner at Vasanth & Co, plays a pivotal role in steering the retail giant's legacy. She also leads Thangam Enterprises, a premier B2B provider. With her strategic vision and industry expertise, she continues to drive growth, innovation, and excellence across all ventures. Their collective expertise drives the company's commitment to excellence in product design, manufacturing, and customer satisfaction.",
-      image: "public/lovable-uploads/500b1e70-f84a-4ac7-b409-5df61ce5823d.png"
+      image: "public/lovable-uploads/malar.jpg"
     },
     {
       name: "Mr. Balachandran TB",

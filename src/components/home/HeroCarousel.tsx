@@ -69,7 +69,7 @@ const HeroCarousel = () => {
               <div className="absolute inset-0 z-0">
                 <div className="absolute inset-0 bg-gradient-to-r from-black/70 to-black/30 z-10"></div>
                 <img 
-                  src="/lovable-uploads/4143d39e-bb59-481c-b1b6-3566d5d46205.png" 
+                  src="/lovable-uploads/banner.webp" 
                   alt="Electric Kettles" 
                   className="w-full h-full object-cover"
                 />

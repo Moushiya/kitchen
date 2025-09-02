@@ -15,8 +15,8 @@ const GoogleMap = ({ address = "81K Thiruvalluvar Street, Athipet, Chennai, Tami
     if (mapRef.current) {
       const iframe = document.createElement("iframe");
       iframe.src = `https://maps.google.com/maps?q=${encodedAddress}&t=&z=13&ie=UTF8&iwloc=&output=embed`;
-      iframe.style.width = "100%";
-      iframe.style.height = "100%";
+      iframe.style.width = "500%";
+      iframe.style.height = "500%";
       iframe.style.border = "0";
       iframe.setAttribute("allowfullscreen", "");
       iframe.setAttribute("loading", "lazy");

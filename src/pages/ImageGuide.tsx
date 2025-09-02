@@ -35,9 +35,9 @@ const ImageGuide = () => {
           images: [
             {
               name: "Gas Stove Image",
-              currentFile: "5f227410-172c-4090-be93-e8ba8cf0ed52.png",
+              currentFile:"gas stove.webp",
               recommendedSize: "800px × 600px",
-              format: "WebP/PNG",
+              format: "webp/PNG",
               maxSize: "200KB",
               description: "Premium gas stove product showcase image"
             },

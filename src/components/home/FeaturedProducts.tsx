@@ -46,7 +46,7 @@ const FeaturedProducts = () => {
                     </span>
                   </div>
                   <img 
-                    src="public/lovable-uploads/5f227410-172c-4090-be93-e8ba8cf0ed52.png" 
+                    src="public/lovable-uploads/gas stove.webp" 
                     alt="Premium Gas Stove" 
                     className="h-full w-full object-cover transition-transform duration-700"
                     style={{
@@ -109,7 +109,7 @@ const FeaturedProducts = () => {
                     </span>
                   </div>
                   <img 
-                    src="public/lovable-uploads/c621b6ac-0c4d-45d4-9f0a-11a9e8ca11d6.png" 
+                    src="public/lovable-uploads/3b2-18.webp" 
                     alt="Electric Kettle" 
                     className="h-full w-full object-cover transition-transform duration-700"
                     style={{
